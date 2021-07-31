@@ -15,7 +15,7 @@ MSE/MSA - Tuned (64, 32, 16, 1) - 11.51
 
 - What happens to your train and test results if you add 5 hidden layers with 128 neurons each? 
 If we add 5 hidden layers each with 128 neurons the MSE went up.
-Reason being there is not enough data to train all the neurons and as a results the weights of those neurons are 0
+Reason being, there is not enough data to train all the neurons in the hidden layers and as a results some of the weights of those neurons are zero
 
 ## 2 Intro to convolution operations: padding
 
