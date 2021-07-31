@@ -21,6 +21,8 @@ The reason being, there is not enough data to train all the neurons in the hidde
 
 ## 2 Intro to convolution operations: padding
 
+[Link to Notes](https://drive.google.com/file/d/1vJ5YH-ZjCZ3tILekvzd3rDQRZo8udxt2/view?usp=sharing)
+
 #### Assessment
 Grab a pen/paper or your favorite note-taking device and follow the examples in the video on your own.
 
