@@ -53,7 +53,6 @@ Please fetch the PA5 notebook on Jupyter for more information.
 [Optional] Design your own VGG (based on the VGG article architecture `E`) in Keras. 
 
 
-
 ## Submission of assessments to Git
 - Create a repo on your favorite git (hub, lab, etc.)
 - call it EAI21
