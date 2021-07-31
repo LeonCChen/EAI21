@@ -10,12 +10,14 @@ Modify the NN at the end of the program to boost the performance of the NN.
 Submit your Notebook or its link to your git under a new folder called: `Lab3_CNN`. Answer on top and add me “memoatwit” [1]:
 
 - What is your MSE/MAE with linreg vs tuned network? 
-MSE/MSA - Default (13, 1) - 24.29 
-MSE/MSA - Tuned (64, 32, 16, 1) - 11.51
+
+MSE/MAE - Default (13, 1) - 24.29 
+MSE/MAE - Tuned (64, 32, 16, 1) - 11.51
 
 - What happens to your train and test results if you add 5 hidden layers with 128 neurons each? 
-If we add 5 hidden layers each with 128 neurons the MSE went up.
-Reason being, there is not enough data to train all the neurons in the hidden layers and as a results some of the weights of those neurons are zero
+
+If we add five hidden layers, each with 128 neurons, the MSE went up.
+The reason being, there is not enough data to train all the neurons in the hidden layers, and as a result, some of the weights of those neurons are zero.
 
 ## 2 Intro to convolution operations: padding
 
