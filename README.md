@@ -2,7 +2,7 @@
 Embedded AI
 
 ## 1 Introduction
-[Link to Notebook](https://colab.research.google.com/drive/1jcbjiK7cLZcBlydXtKi2YaiWwx9Iq9Xl?usp=sharing)
+[Link to Notebook w/ the work](https://colab.research.google.com/drive/1jcbjiK7cLZcBlydXtKi2YaiWwx9Iq9Xl?usp=sharing)
 
 #### Assessment
 Modify the NN at the end of the program to boost the performance of the NN. 
