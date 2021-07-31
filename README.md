@@ -36,6 +36,13 @@ Solve for the padding (P), in terms of I, F and S, if we want the input and outp
 ## 5 Practical patterns
 
 #### Assessment
+[Required] PA5: Contest on Cat/Dog classification on Jupyter. Train/test CNN with cats and dogs on Jupyter. 
+Once you fetch PA5 on Jupyter, you will have access to ~20k cat/dog images. Build a classifier model in Keras to correctly identify a given image as Cat/0 or Dog/1. Images have been resized to 50x50 grayscale pixels to assist you. 
+
+Please fetch the PA5 notebook on Jupyter for more information. 
+[Optional] Design your own VGG (based on the VGG article architecture `E`) in Keras. 
+
+
 
 
 
