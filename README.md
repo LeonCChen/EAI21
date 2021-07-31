@@ -2,7 +2,7 @@
 Embedded AI
 
 ## 1 Introduction
-[Link](https://colab.research.google.com/drive/1jcbjiK7cLZcBlydXtKi2YaiWwx9Iq9Xl?usp=sharing)
+[Link to Notebook](https://colab.research.google.com/drive/1jcbjiK7cLZcBlydXtKi2YaiWwx9Iq9Xl?usp=sharing)
 
 
 ## 2 Intro to convolution operations: padding
