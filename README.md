@@ -28,19 +28,33 @@ Grab a pen/paper or your favorite note-taking device and follow the examples in 
 
 ## 3 Convolution parameters: stride and pooling
 
+[Link to Notes and Work for Assessment](https://drive.google.com/file/d/11P1SVDLA9mYjCyzcgiFzMLOyVsXa7a_y/view?usp=sharing)
+
 #### Assessment
+
 Follow the examples in the video on your own.  
 Answer in your Git repo: 
 If I apply pooling of 2 (2,2 window with a stride of 2) to a (6,6) array, what is the resulting size?
 
+Answer: 3x3
+
 ## 4 ConvNet Architectures, layers
+
+[Link to Notebook]()
 
 #### Assessment
 Follow the examples in the video on your own.  Answer in your Git repo:
-What is my output size if: Input = (100,100), kernel size=(2,2), stride of 1 and no pooling? 
-How many weights do I have if I have 24 such filters stacked (conv2_24)?
-What is a better idea: To use one larger kernel (7,7) or multiple stacked smaller ones, 3x(3,3)? 
-Solve for the padding (P), in terms of I, F and S, if we want the input and output size to remain the same. 
+- What is my output size if: Input = (100,100), kernel size=(2,2), stride of 1 and no pooling? 
+
+
+- How many weights do I have if I have 24 such filters stacked (conv2_24)?
+
+
+- What is a better idea: To use one larger kernel (7,7) or multiple stacked smaller ones, 3x(3,3)? 
+
+
+- Solve for the padding (P), in terms of I, F and S, if we want the input and output size to remain the same. 
+
 
 
 ## 5 Practical patterns
