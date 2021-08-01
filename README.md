@@ -59,7 +59,7 @@ Follow the examples in the video on your own.  Answer in your Git repo:
 
 ## 5 Practical patterns
 
-**Work in Jupyter Notebook Server**
+***Work in Jupyter Notebook Server***
 
 #### Assessment
 [Required] PA5: Contest on Cat/Dog classification on Jupyter. Train/test CNN with cats and dogs on Jupyter. 
