@@ -43,7 +43,7 @@ Answer: 3x3
 
 ## 4 ConvNet Architectures, layers
 
-[Link to Notebook for Section 4]()
+[Link to work for Section 4]()
 
 #### Assessment
 Follow the examples in the video on your own.  Answer in your Git repo:
