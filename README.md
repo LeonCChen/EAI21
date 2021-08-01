@@ -12,6 +12,7 @@ Submit your Notebook or its link to your git under a new folder called: `Lab3_CN
 - What is your MSE/MAE with linreg vs tuned network? 
 
 MSE/MAE - Default (13, 1) - 24.29 
+
 MSE/MAE - Tuned (64, 32, 16, 1) - 11.51
 
 - What happens to your train and test results if you add 5 hidden layers with 128 neurons each? 
