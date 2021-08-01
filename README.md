@@ -62,7 +62,9 @@ Answer: Multiple stacked smaller kernels whats the whole point of the Convolutio
 
 - Solve for the padding (P), in terms of I, F and S, if we want the input and output size to remain the same. 
 
+O = ( ( I - F + 2P) / S ) + 1 
 
+P = (OS - S - T + F) / 2
 
 ## 5 Practical patterns
 
