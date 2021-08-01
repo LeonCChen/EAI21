@@ -50,11 +50,11 @@ Answer: 3x3
 Follow the examples in the video on your own.  Answer in your Git repo:
 - What is my output size if: Input = (100,100), kernel size=(2,2), stride of 1 and no pooling? 
 
-Answer: (100-2+0)/1 = **99x99**
+Answer: (100 - 2 + 0) / 1 = **99 x 99**
 
 - How many weights do I have if I have 24 such filters stacked (conv2_24)?
 
-Answer: 
+Answer: 2 * 2 * (24) = 96
 
 - What is a better idea: To use one larger kernel (7,7) or multiple stacked smaller ones, 3x(3,3)? 
 
